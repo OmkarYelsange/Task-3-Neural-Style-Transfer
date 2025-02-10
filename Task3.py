@@ -1,3 +1,6 @@
+pip install -r requirements.txt
+python neural_style_transfer.py
+
 ### Task 3: Neural Style Transfer
 # This script applies a neural style transfer model to an image.
 
